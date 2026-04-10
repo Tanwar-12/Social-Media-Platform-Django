@@ -33,11 +33,7 @@ It provides a strong foundation that can be extended into a full-featured social
 - `app/views.py` → Business logic
 - `templates/` → HTML templates
 
-## 📸 Result / UI Preview
-
-Here are some screenshots of the Social Media Platform:
-
-
+##  Result / UI Preview
 
 ### 🔹 Profile Page , Dashboard & Sidebar
 
